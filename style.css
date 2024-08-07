@@ -17,6 +17,7 @@ html, body, div, form, span {
     margin:auto;
     text-align:center;
     display: flex;
+    justify-content: center;
 }
 
 h2 {
