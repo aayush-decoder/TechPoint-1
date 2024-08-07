@@ -72,6 +72,7 @@ input[type=submit] {
     padding: 0.5em 1.5em;
     border-radius:1em;
     font-family: 'Space Grotesk';
+    margin:auto;
 }
 
 
